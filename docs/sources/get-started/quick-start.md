@@ -1,5 +1,5 @@
 ---
-title: Quickstart to run Loki locally
+title: Quickstart to run Loki locally inside a docker container
 menuTitle: Loki quickstart
 weight: 200
 description: How to create and use a local Loki cluster for testing and evaluation purposes.
